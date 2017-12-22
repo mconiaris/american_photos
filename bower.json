@@ -2,7 +2,7 @@
   "name": "american-photos",
   "private": true,
   "dependencies": {
-    "bootstrap": "~4.0.0-alpha.6",
+    "bootstrap": "~4.0.0",
     "modernizr": "~2.8.1"
   }
 }
