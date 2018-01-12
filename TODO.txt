@@ -26,37 +26,22 @@ Set up HTTP server: http://jasonwatmore.com/post/2016/06/22/nodejs-setup-simple-
 =========
 
 $ npm install
-npm WARN deprecated babel-preset-es2015@6.24.1: 🙌  Thanks for using Babel: we recommend using babel-preset-env now: please read babeljs.io/env to update! 
+npm WARN deprecated gulp-karma@0.0.4: Please use Karma directly: https://github.com/karma-runner/gulp-karma
+npm WARN deprecated gulp-minify-css@1.2.4: Please use gulp-clean-css
 npm WARN deprecated gulp-util@3.0.8: gulp-util is deprecated - replace it, following the guidelines at https://medium.com/gulpjs/gulp-util-ca3b1f9f9ac5
 npm WARN deprecated graceful-fs@3.0.11: please upgrade to graceful-fs 4 for compatibility with current and future versions of Node.js
 npm WARN deprecated minimatch@2.0.10: Please update to minimatch 3.0.2 or higher to avoid a RegExp DoS issue
 npm WARN deprecated minimatch@0.2.14: Please update to minimatch 3.0.2 or higher to avoid a RegExp DoS issue
 npm WARN deprecated graceful-fs@1.2.3: please upgrade to graceful-fs 4 for compatibility with current and future versions of Node.js
-npm WARN prefer global node-gyp@3.6.2 should be installed with -g
+npm WARN deprecated connect@2.30.2: connect 2.x series is deprecated
+npm WARN deprecated gulp-util@2.2.20: gulp-util is deprecated - replace it, following the guidelines at https://medium.com/gulpjs/gulp-util-ca3b1f9f9ac5
+npm WARN deprecated graceful-fs@2.0.3: please upgrade to graceful-fs 4 for compatibility with current and future versions of Node.js
+npm WARN prefer global jshint@2.9.5 should be installed with -g
 
 > fsevents@1.1.3 install /Users/mconiaris/dev/american_photos/node_modules/fsevents
 > node install
 
 [fsevents] Success: "/Users/mconiaris/dev/american_photos/node_modules/fsevents/lib/binding/Release/node-v59-darwin-x64/fse.node" is installed via remote
-
-> uws@0.14.5 install /Users/mconiaris/dev/american_photos/node_modules/uws
-> node-gyp rebuild > build_log.txt 2>&1 || exit 0
-
-
-> node-sass@4.7.2 install /Users/mconiaris/dev/american_photos/node_modules/node-sass
-> node scripts/install.js
-
-Downloading binary from https://github.com/sass/node-sass/releases/download/v4.7.2/darwin-x64-59_binding.node
-Download complete  ⸩ ⠋ :
-Binary saved to /Users/mconiaris/dev/american_photos/node_modules/node-sass/vendor/darwin-x64-59/binding.node
-Caching binary to /Users/mconiaris/.npm/node-sass/4.7.2/darwin-x64-59_binding.node
-
-> node-sass@4.7.2 postinstall /Users/mconiaris/dev/american_photos/node_modules/node-sass
-> node scripts/build.js
-
-Binary found at /Users/mconiaris/dev/american_photos/node_modules/node-sass/vendor/darwin-x64-59/binding.node
-Testing binary
-Binary is fine
 
 > gifsicle@3.0.4 postinstall /Users/mconiaris/dev/american_photos/node_modules/gifsicle
 > node lib/install.js
