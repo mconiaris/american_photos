@@ -77,11 +77,11 @@ gulp.task('images', () => {
     .pipe(gulp.dest('dist/images'));
 });
 
-gulp.task('fonts', () => {
-  return gulp.src(require('main-bower-files')('**/*.{eot,svg,ttf,woff,woff2}', function (err) {})
-    .concat('app/fonts/**/*'))
-    .pipe($.if(dev, gulp.dest('.tmp/fonts'), gulp.dest('dist/fonts')));
-});
+// gulp.task('fonts', () => {
+//   return gulp.src(require('main-bower-files')('**/*.{eot,svg,ttf,woff,woff2}', function (err) {})
+//     .concat('app/fonts/**/*'))
+//     .pipe($.if(dev, gulp.dest('.tmp/fonts'), gulp.dest('dist/fonts')));
+// });
 
 gulp.task('extras', () => {
   return gulp.src([
@@ -101,9 +101,9 @@ gulp.task('serve', () => {
       port: 9000,
       server: {
         baseDir: ['.tmp', 'app'],
-        routes: {
-          '/bower_components': 'bower_components'
-        }
+        // routes: {
+        //   '/bower_components': 'bower_components'
+        // }
       }
     });
 
@@ -116,7 +116,7 @@ gulp.task('serve', () => {
     gulp.watch('app/styles/**/*.scss', ['styles']);
     gulp.watch('app/scripts/**/*.js', ['scripts']);
     gulp.watch('app/fonts/**/*', ['fonts']);
-    gulp.watch('bower.json', ['wiredep', 'fonts']);
+    // gulp.watch('bower.json', ['wiredep', 'fonts']);
   });
 });
 
@@ -139,7 +139,7 @@ gulp.task('serve:test', ['scripts'], () => {
       baseDir: 'test',
       routes: {
         '/scripts': '.tmp/scripts',
-        '/bower_components': 'bower_components'
+        // '/bower_components': 'bower_components'
       }
     }
   });
