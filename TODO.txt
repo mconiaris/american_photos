@@ -2,25 +2,24 @@ Yoeman Generator Install Todos:
 
 $ npm install -g generator-angular
 npm WARN deprecated graceful-fs@2.0.3: please upgrade to graceful-fs 4 for compatibility with current and future versions of Node.js
+
 npm WARN deprecated minimatch@2.0.10: Please update to minimatch 3.0.2 or higher to avoid a RegExp DoS issue
+
 npm WARN deprecated CSSselect@0.4.1: the module is now available as 'css-select'
+
 npm WARN deprecated CSSwhat@0.4.7: the module is now available as 'css-what'
+
 npm WARN deprecated graceful-fs@3.0.11: please upgrade to graceful-fs 4 for compatibility with current and future versions of Node.js
+
 npm WARN deprecated minimatch@0.2.14: Please update to minimatch 3.0.2 or higher to avoid a RegExp DoS issue
+
 npm WARN deprecated minimatch@0.3.0: Please update to minimatch 3.0.2 or higher to avoid a RegExp DoS issue
+
 npm WARN deprecated tough-cookie@0.9.15: ReDoS vulnerability parsing Set-Cookie https://nodesecurity.io/advisories/130
+
 npm WARN deprecated node-uuid@1.4.8: Use uuid module instead
 /Users/mconiaris/.npm-packages/lib
 
-
-=========
-
-Install Grunt: https://gruntjs.com/getting-started
-https://gruntjs.com/
-
-Package.json docs: https://docs.npmjs.com/files/package.json
-
-Set up HTTP server: http://jasonwatmore.com/post/2016/06/22/nodejs-setup-simple-http-server-local-web-server
 
 
 =========
