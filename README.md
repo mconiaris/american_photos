@@ -1,12 +1,7 @@
-# american-photos
+This is a Website of American photos.
 
-This project is generated with [yo angular generator](https://github.com/yeoman/generator-angular)
-version 0.16.0.
+Node.js Tutorial:
+https://blog.risingstack.com/node-hero-tutorial-getting-started-with-node-js/
 
-## Build & development
-
-Run `grunt` for building and `grunt serve` for preview.
-
-## Testing
-
-Running `grunt test` will run the unit tests with karma.
+This is based on the Yeoman Scaffold:
+http://yeoman.io/codelab/scaffold-app.html
