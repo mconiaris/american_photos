@@ -1,3 +1,8 @@
+Delete scaffolding stuff and start from scrath.
+
+Make a list of things to install and do it manually.
+
+
 Yoeman Generator Install Todos:
 
 $ npm install -g generator-angular
