@@ -1,9 +1,12 @@
+#American Photos TODO
 
-Delete scaffolding stuff and start from scrath.
+##Current Install
+1. Make a list of things to install and do it manually.
 
-Make a list of things to install and do it manually.
 
 
+
+##Old Install
 Yoeman Generator Install Todos:
 
 $ npm install -g generator-angular
