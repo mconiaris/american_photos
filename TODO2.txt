@@ -1,0 +1,20 @@
+Replace Bower (learn difference between npm, Yarn and webpack)
+
+
+Additional error details:
+Unexpected token @ in JSON at position 0
+
+
+Error: Error: bootstrap is not installed. Try running `bower install` or remove the component from your bower.json file.
+    at /Users/mconiaris/.nvm/versions/node/v9.3.0/lib/node_modules/generator-webapp/node_modules/wiredep/wiredep.js:30:56
+    at /Users/mconiaris/.nvm/versions/node/v9.3.0/lib/node_modules/generator-webapp/node_modules/wiredep/lib/detect-dependencies.js:149:29
+    at /Users/mconiaris/.nvm/versions/node/v9.3.0/lib/node_modules/generator-webapp/node_modules/lodash/lodash.js:4944:15
+    at baseForOwn (/Users/mconiaris/.nvm/versions/node/v9.3.0/lib/node_modules/generator-webapp/node_modules/lodash/lodash.js:3001:24)
+    at /Users/mconiaris/.nvm/versions/node/v9.3.0/lib/node_modules/generator-webapp/node_modules/lodash/lodash.js:4913:18
+    at Function.forEach (/Users/mconiaris/.nvm/versions/node/v9.3.0/lib/node_modules/generator-webapp/node_modules/lodash/lodash.js:9359:14)
+    at detectDependencies (/Users/mconiaris/.nvm/versions/node/v9.3.0/lib/node_modules/generator-webapp/node_modules/wiredep/lib/detect-dependencies.js:34:7)
+    at wiredep (/Users/mconiaris/.nvm/versions/node/v9.3.0/lib/node_modules/generator-webapp/node_modules/wiredep/wiredep.js:70:39)
+    at module.exports.end (/Users/mconiaris/.nvm/versions/node/v9.3.0/lib/node_modules/generator-webapp/app/index.js:362:5)
+    at Object.<anonymous> (/Users/mconiaris/.nvm/versions/node/v9.3.0/lib/node_modules/generator-webapp/node_modules/yeoman-generator/lib/index.js:417:23)
+mconiaris ~/dev/american_photos on master[?]
+$ 
