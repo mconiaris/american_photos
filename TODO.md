@@ -5,6 +5,15 @@
 
 
 
+##Reference Pages
+1. Example of a Yoeman scaffold: https://github.com/angular-fullstack/generator-angular-fullstack
+2. Building a Web app from scratch: https://code.tutsplus.com/tutorials/building-a-web-app-from-scratch-in-angularjs--net-32944
+3. Angularjs docs: https://docs.angularjs.org/tutorial/step_00
+4. How to migrate away from Bower? https://bower.io/blog/2017/how-to-migrate-away-from-bower/
+5. Yarn and Webpack: https://snyk.io/blog/bower-is-dead/
+6. Yeoman: http://yeoman.io/codelab/scaffold-app.html#toc
+
+
 
 ##Old Install
 Yoeman Generator Install Todos:
