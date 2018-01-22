@@ -1,8 +1,5 @@
-node_modules
-dist
-.tmp
-bower_components
-test/bower_components
-development_notes.txt
-TODO.txt
-bower_notes.txt
+/node_modules
+/dist
+/.tmp
+/.sass-cache
+/bower_components
