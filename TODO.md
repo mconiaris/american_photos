@@ -2,6 +2,8 @@
 
 ##Current Install
 1. Make a list of things to install and do it manually.
+2. Research proper package.json setup
+3. Determine Bower replacement.
 
 
 
