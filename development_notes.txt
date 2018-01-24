@@ -1,3 +1,11 @@
+Setup Notes:
+
+1. Checked for npm installation and upgraded to latest version
+2. 
+
+
+===========
+
 Yeoman Scaffold Notes
 December 21, 2017
 
