@@ -1,0 +1,26 @@
+{
+  "name": "american_photos",
+  "version": "1.0.0",
+  "description": "This site looks a photos from different places in the United States with very particular political opinions.\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mconiaris/american_photos.git"
+  },
+  "keywords": [
+    "Trump",
+    "politics",
+    "photos",
+    "USA",
+    "Americans"
+  ],
+  "author": "Michael Coniaris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mconiaris/american_photos/issues"
+  },
+  "homepage": "https://github.com/mconiaris/american_photos#readme"
+}

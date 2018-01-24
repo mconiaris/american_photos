@@ -1,7 +1,8 @@
 Setup Notes:
 
 1. Checked for npm installation and upgraded to latest version
-2. 
+2. Ran npm init to create a package.json file.
+3. 
 
 
 ===========
